@@ -1,14 +1,13 @@
 # Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+https://ashu0023-debug.github.io/AshishPortfolio/
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+
+
+
+
+![Screenshot 2025-06-13 085026](https://github.com/user-attachments/assets/a027abf8-6058-4df1-9b1e-f6d7bf5ee35e)
+![Screenshot 2025-06-13 085047](https://github.com/user-attachments/assets/e3380c81-1db0-4848-ae83-bd588dbe4068)
+
 
